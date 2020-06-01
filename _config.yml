@@ -27,8 +27,7 @@ author :
 #
 production_url : http://nilbro.github.io
 
-plugins
-: ["jekyll-sitemap"]
+plugins: ["jekyll-sitemap"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
